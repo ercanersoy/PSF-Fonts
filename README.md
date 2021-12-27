@@ -10,10 +10,10 @@ Type of these fonts is PSF version 1.
 
 ## Links
 
-[console-data](https://packages.debian.org/sid/console-data)
-[Debian](https://www.debian.org/)
-[Linux](https://www.kernel.org/)
-[Syslinux](https://syslinux.org)
+* [console-data](https://packages.debian.org/sid/console-data)
+* [Debian](https://www.debian.org/)
+* [Linux](https://www.kernel.org/)
+* [Syslinux](https://syslinux.org)
 
 ## Notes
 
