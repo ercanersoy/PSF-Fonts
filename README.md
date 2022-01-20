@@ -1,8 +1,8 @@
 # PSF Fonts
 
-PSF Fonts from console-data package of Debian.
+PSF Fonts from console-data package of Debian
 
-This repository licensed under GNU GPL v2.
+This repository is licensed under GNU GPL v2.
 
 These fonts are useful for Linux and Syslinux softwares.
 
